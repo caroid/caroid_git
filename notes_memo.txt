@@ -1,0 +1,27 @@
+BooK 1:书 通用 单词
+Pragmatic Version Control Using Git
+1.Contents : 内容，目录
+2. acknowledgments : 感谢，致谢
+3. preface : 前言
+4. subscribe : 订阅
+5. conventions : 约定
+6. credits : 学分
+7. appendixes : 附录
+8. typographic : 排版
+9. autors : 作者
+10. errata : 勘误表
+11. piracy : 盗版
+12. tricks : 诀窍
+13. tips : 小窍门
+14. hint : 提示
+15. cover : 封面
+16. introduction : 介绍
+17. terminology : 术语
+18. foreword : 序，前言
+19. illustration : 插图，说明
+20. references : 引用
+21. endnotes : 尾注
+22. dedications : 献给
+23. contributors : 编著者
+24. 
+
